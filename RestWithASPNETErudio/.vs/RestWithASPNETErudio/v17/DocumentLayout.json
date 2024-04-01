@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\curso\\rest api\\restwithasp-net8udemy\\restwithaspneterudio\\restwithaspneterudio\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\curso\\rest api\\restwithasp-net8udemy\\restwithaspneterudio\\restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|d:\\curso\\rest api\\restwithasp-net8udemy\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{400F51DF-FF18-43B7-B318-4AA8561F31F2}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-02T21:00:54.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\CalculatorController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwDUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:34:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
+              "ToolTip": "D:\\Curso\\REST API\\RestWithASP-NET8Udemy\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T19:31:36.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
